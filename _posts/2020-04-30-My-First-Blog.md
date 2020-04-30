@@ -1,7 +1,7 @@
 --- 
 layout: post
-title:"My-First-Blog"
-date:2020-04-30
+title: "My-First-Blog"
+date: 2020-04-30
 ---
 
 First blog
