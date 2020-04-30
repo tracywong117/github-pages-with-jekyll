@@ -1,5 +1,5 @@
-theme: jekyll-theme-slate
-title: Tracy's Blog
+theme: minima
+title: Learning and Play
 author: tracywong117
 email: tracywong117@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
